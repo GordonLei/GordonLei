@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my Github page! My name is Gordon Lei, a current junior studying computer science. This is going to be a work in progress since I'm looking to make my github.io page more "servicable" in the coming months; the link will be at: [gordonlei.github.io](https://gordonlei.github.io/). 
+
+I'm currently learning how to make webpages using Node.js and express with other tools such as React and MongoDB or SQL. I'm planning on using these skillsets for a personal project that is realted to my interest in mechanical keyboards; this is a link to the [GitHub Repo](https://github.com/GordonLei/KeySwitch); currently it is mainly empty since I'm still learning how to use the tools from an online course and am drafting and sketching how I would like the website to look like and what featues it will have. Images will be coming very, very soon.
+
 <!--
 **GordonLei/GordonLei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
